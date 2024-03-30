@@ -11,13 +11,13 @@ I uploaded the dataset to BigQuery for the purpose of this project.
 
 # The average price by neighborhood in Paris
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 > The Elysée emerges as Paris’ most expensive neighborhood with €211 in average, highlighting its prestige and likely luxury offerings.
 
 # The average price by accommodates in Paris’ most expensive neighborhood
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 > Generally, as the number of accommodates increases, the mean price tends to increase as well, which is expected.
 > While there is a general increasing trend, there are fluctuations in mean prices across different accommodation capacities. These fluctuations could be influenced by various factors such as seasonal demand, location, amenities provided, etc.
@@ -25,6 +25,6 @@ I uploaded the dataset to BigQuery for the purpose of this project.
 
 # New hosts and average price over time comparaison
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 > We can observe a decline in the number of new hosts after the implementation of new regulations in France in 2015. Additionally, the average price increased as a consequence of these regulations until the onset of the 2020 pandemic.
