@@ -1,4 +1,4 @@
-#AirBnB Listing Analysis using SQL and BigQuery
+# AirBnB Listing Analysis using SQL and BigQuery
 
 ## Analyzing AirBnB listings in Paris to determine the impact of recent regulations
 
